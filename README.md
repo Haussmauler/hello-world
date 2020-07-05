@@ -1,2 +1,2 @@
 # hello-world
-learning the ropes
+learning how github works so i can compile a marlin file to upgrade my printer
